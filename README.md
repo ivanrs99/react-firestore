@@ -1,3 +1,8 @@
+npx create-react-app firebase-crud-react
+npm i firebase
+npm i bootswatch
+npm install --save react-toastify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
